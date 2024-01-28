@@ -8,3 +8,4 @@ def add_friend(name):
 
 add_friend("Alex")
 add_friend("Misha")
+print("test")
