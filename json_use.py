@@ -18,5 +18,5 @@ def load_data(file):
         print("Smth goes wrong")
 
     return file_data
-!
+
 
